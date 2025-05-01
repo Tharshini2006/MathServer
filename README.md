@@ -129,7 +129,8 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<WhatsApp Image 2025-05-01 at 13.30.21_95930827.jpg>)
+![WhatsApp Image 2025-05-01 at 13 30 21_f5b6e273](https://github.com/user-attachments/assets/6cc2ce83-202b-42d0-9859-43c4880be6cc)
+
 
 ## HOMEPAGE:
 ![alt text](<WhatsApp Image 2025-05-01 at 13.31.12_9ed534a9.jpg>)
